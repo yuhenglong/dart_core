@@ -1,6 +1,6 @@
 # dart_core
 
-A new Flutter project.
+flutter体验项目
 
 ## Getting Started
 
